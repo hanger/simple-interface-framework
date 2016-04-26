@@ -5,7 +5,7 @@ a simple php server interface framework
 
 this framework is just used for personal convenience,anyone want to fork is welcome,and wish for your request to make it better
 
-该框架只是个人项目抽离出来的，如果有兴趣欢迎使用，并根据自己的项目自行调整，欢迎提交request帮助完善
+该框架只是个人项目抽离出来的，如果有兴趣欢迎使用，请根据自己的项目自行调整，欢迎提交request帮助完善
 
 #use guide
 
