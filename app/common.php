@@ -1,6 +1,4 @@
 <?php
-// header ( "Content-Type: text/html; charset=utf-8" );
-// putenv ( "TZ=Asia/Shanghai" );
 error_reporting ( 0 );
 // session_start ();
 define ( 'S_ROOT', dirname ( __FILE__ ) . DIRECTORY_SEPARATOR );
