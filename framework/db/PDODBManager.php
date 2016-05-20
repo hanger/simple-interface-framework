@@ -83,7 +83,7 @@ class PDODBManager extends ADBManager{
     function is_no_data($result)
     {
         try {
-            return $result == null || $result->rowCount () <= 0;
+            return $result == null;
         } catch ( PDOException $e ) {
             $debug_arr = debug_backtrace ();
             Tool::put_err_log ( $e->getMessage () . ", trace : " . json_encode ( $debug_arr ) );
